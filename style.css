@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+    color:#222;
+    padding:40px;
+}
+
+h1{
+    color:#0b4f8a;
+    margin-bottom:15px;
+}
+
+p{
+    font-size:18px;
+}
